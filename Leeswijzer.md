@@ -1,5 +1,5 @@
-# portfolio
-data science portfolio Bob Tuynman
+# Leeswijzer portfolio
+Data science portfolio. Naam: Bob Tuynman Studentnummer: 09003029
 
 Leeswijzer is zoals te zien nog niet volledig.  
 Alle relevante bestanden zijn te vinden in de zipfile "Portfolio".  
