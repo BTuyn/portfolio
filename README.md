@@ -31,6 +31,19 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [Week 6 Machine Learning System Design](https://github.com/BTuyn/portfolio/blob/master/Coursera/Week%206%20Machine%20Learning%20System%20Design.PNG)
 
 ## Datacamp <a name="Datacamp"></a>
+### Datacamp: Intro to Python for Data Science
+* [1 Python basics (variables, expressions)]
+* [2 Pythin Lists]
+* [3 Functions and Packages]
+* [4 Numpy (2D number arrays)]
+### Datacamp: Intermediate Python for Data Science
+* [1 Matplotlib (visualization)](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+* [2 Dictionaries & Pandas](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+* [3 Logic, Control flow & Filtering](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+* [4 Loops](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+* [5 Excercise](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+
+
 ## Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
 ## Spark <a name="Spark"></a>
 ## Python projecten  <a name="Python_projecten"></a>
