@@ -18,10 +18,10 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [Projectplanning+uitgevoerde taken](#Projectplanning+uitgevoerde_taken)
  
 ## Coursera <a name="Coursera"></a>
-## Datacamp <a name="DataCamp"></a>
+## Datacamp <a name="Datacamp"></a>
 ## Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
 ## Spark <a name="Spark"></a>
 ## Python projecten  <a name="Python_projecten"></a>
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
 ## Presentaties  <a name="Presentaties"></a>
-## Projectplanning+uitgevoerde taken <a name="Projectplanning+Uitgevoerde_taken"></a>
+## Projectplanning+uitgevoerde taken <a name="Projectplanning+uitgevoerde_taken"></a>
