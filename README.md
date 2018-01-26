@@ -17,5 +17,11 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * Projectplanning+uitgevoerde taken
 * Spark
  
- 
- 
+## Coursera <a name="Coursera"></a>
+## Datacamp <a name="DataCamp"></a>
+## Exploratory Data Analysis <a name="Exploratory Data Analysis"></a>
+## Python projecten  <a name="DataCamp"></a>
+## Calling Bullshit  
+## Presentaties  
+## Projectplanning+uitgevoerde taken
+## Spark
