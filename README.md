@@ -2,8 +2,8 @@
 Naam: Bob Tuynman Studentnummer: 09003029
 
 # Introductie
-Als Technisch Bedrijfskundig student, kom ik sinds deze minor voor het eerst, op een serieuze manier, in aanraking met coderen. Zelfs het maken van een portfolio in een Github is volkomen nieuwe voor mij en heb ik erg veel van geleerd. Wanneer ik kennissen en vrienden vertel, dat ik op in de minor "Applied Data Science" meer heb geleerd, dan de afgelopen twee jaar van mijn studie, zeker niet overdrijf. Ik ben onderhand dan ook overtuigd dat voor een Technisch Bedrijfskundig student, kennis in het gebied van 'Data Science' onmisbaar is.
-Wat ik precies
+Als Technisch Bedrijfskundig student, kom ik sinds deze minor voor het eerst, op een serieuze manier, in aanraking met coderen. Zelfs het maken van een portfolio in een Github is volkomen nieuwe voor mij en een compleet nieuwe uitdaging. Wanneer ik kennissen en vrienden vertel, dat ik op in de minor "Applied Data Science" meer heb geleerd, dan de afgelopen twee jaar van mijn studie, zeker niet overdrijf. Ik ben onderhand dan ook overtuigd dat voor een Technisch Bedrijfskundig student, kennis in het gebied van 'Data Science' onmisbaar is. Ik probeer het docententeam van de opleiding Technische Bedrijfskunde(TBK) dan ook te overtuigen, dat 'Data Science' vakken toegevoegd MOETEN worden aan het vakkenpakket van de opleiding als TBK de komende 10 tot 20 jaar, relevant wil blijven. Ik ben van plan om hier contact over op te nemen met de opleidingsmanager.
+In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens deze minor heb verzameld.
 
 # Inhoud 
 * Coursera  
@@ -14,16 +14,6 @@ Wat ik precies
 * Presentaties  
 * Projectplanning+uitgevoerde taken
 * Spark
-
-Het mapje Coursera is tot nu toe leeg, omdat de gemaakte opdrachten hiervoor nog niet voltooid zijn.  
-  
-Het mapje presentaties is onderverdeeld in twee verschillende mapjes:  
-* gemaakt door mij  
-* gepresenteerd door mij  
-  
-In het mapje "gemaakt door mij" zijn presentaties te vinden die ik heb gemaakt.  
-In het mapje "gepresenteerd door mij" zijn presentaties te vinden die ik heb gepresenteerd.  
-  
-Sommige presentaties zijn door mij gemaakt en gepresenteerd en zijn daarom in beide mapjes te vinden.  
  
-
+ 
+ 
