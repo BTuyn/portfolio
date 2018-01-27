@@ -59,6 +59,11 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [3 Combining data for analys](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
 * [4 Cleaning data for analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
 * [5 Case Study](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
+### Datacamp: Statistical Thinking in Python (part 1)
+* [1 Graphical exploratory data analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
+* [2 Quantative exploratory data analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
+* [3 Thinking probabilistically-- Discrete variables](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
+* [4 Thinking probabilistaclly-- Continuous variables](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
 
 
 
