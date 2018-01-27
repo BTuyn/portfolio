@@ -1,5 +1,7 @@
 # Data science portfolio. 
-Naam: Bob Tuynman Studentnummer: 09003029
+Naam: Bob Tuynman
+
+Studentnummer: 09003029
 - - - -
 
 # Introductie
