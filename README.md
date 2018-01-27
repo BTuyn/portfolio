@@ -72,6 +72,24 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 
 
 ## Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
+1.[Checking Data Edges](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/1%2BChecking%2BData%2BEdges.md)
+
+2.[Identifying variables](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/2%2BIdentifying%2Bvariables.md)
+
+3.[Univariate Analysis](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/3%20Univariate%20Analysis.md)
+
+4.[Bivariate Analysis(https://github.com/BTuyn/portfolio/tree/master/ExploratoryDataAnalysis/4%2BBivariate%2BAnalysis)
+
+5.[Missing Values](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/5%2BMissing%2BValues.md)
+
+6.[Outliers](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/6%20Outliers.md)
+
+7.[Data Transformation](https://github.com/BTuyn/portfolio/tree/master/ExploratoryDataAnalysis/7%2BData%2BTransformation)
+
+8.[Creating Variables](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/8%2BCreating%2BVariables.md)
+
+9.[Evaluate](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/9%2BEvaluate.md)
+
 ## Spark <a name="Spark"></a>
 ## Python projecten  <a name="Python_projecten"></a>
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
