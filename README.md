@@ -32,10 +32,10 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 
 ## Datacamp <a name="Datacamp"></a>
 ### Datacamp: Intro to Python for Data Science
-* [1 Python basics (variables, expressions)] (https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
-* [2 Pythin Lists]
-* [3 Functions and Packages]
-* [4 Numpy (2D number arrays)]
+* [1 Python basics (variables, expressions)](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
+* [2 Pythin Lists](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
+* [3 Functions and Packages](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
+* [4 Numpy (2D number arrays)](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
 ### Datacamp: Intermediate Python for Data Science
 * [1 Matplotlib (visualization)](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
 * [2 Dictionaries & Pandas](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
