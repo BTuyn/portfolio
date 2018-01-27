@@ -104,7 +104,9 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 
 [Scatterplot/clusterings code](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/scatter%20plot%20anomalies.py) Code waarme een 'scatterplot'wordt gemaakt van geselecteerde data en waar een clustering op wordt toegepast. Stappen die iemand anders zou oppakken zijn: afwijkende waardes in nieuwe lijst zetten en/of eigen csv van maken, meerdere dimensies toevoegen.
 
+[Test.py](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/test.py) Allereerste zelfgeschreven pythoncode en 'machine learning' model. Door deze code ben ik als "leek" de kracht van Python gaan begrijpen, omdat met 10 regels code een Decision Tree Classifier is gemaakt die op basis van hoogte, gewicht en schoentmaat mensen classifieert op geslacht.
 
+[Wijn Classificatie](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/whine%20quality%20classifier.py) Tutorial gevolgd om classificatie geschreven in Python code beter te begrijpen. Vervolgens zijn er stappen gezet om de 'tutorial' om te zetten naar code die voor de 'smartbuilding' dataset gebruikt kunnen worden.
 
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
 
