@@ -49,7 +49,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 ### Datacamp: Importing data in Python path 1 
 * [1 Introduction and flat files](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Introduction%20and%20flat%20files.PNG)
 ### Datacamp: Python Data Science Toolbox (Part 1)
-* [1 Writing your own fnctions](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Writing%20your%20own%20functions.PNG)
+* [1 Writing your own functions](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Writing%20your%20own%20functions.PNG)
 ### Datacamp: Pandas foundation
 * [1 Data ingestion and inspection](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Data%20ingestion%20%26%20inspection.PNG)
 * [2 Exploratory data analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Exploratory%20data%20analysis.PNG)
@@ -63,8 +63,12 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [1 Graphical exploratory data analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
 * [2 Quantative exploratory data analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
 * [3 Thinking probabilistically-- Discrete variables](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
-* [4 Thinking probabilistaclly-- Continuous variables](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
-
+* [4 Thinking probabilistcally-- Continuous variables](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
+### Datacamp: Supervised Learning with scikit-learn
+* [1 Classification](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
+* [2 Regression](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
+* [3 Fine-tuning your model](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
+* [4 Preprocessing and pipelines](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
 
 
 ## Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
