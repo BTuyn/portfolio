@@ -92,9 +92,18 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 
 ## Spark <a name="Spark"></a>
 [Assignment 1](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment1.md)
+
 [Assignment 2](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment2.md)
 
 ## Python projecten  <a name="Python_projecten"></a>
+[Denoising autoencoder:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/Denoising%20autoencoder.py) De uitkomst van een tutorial om een autoencoder te maken, er zijn stappen gemaakt om de code te "converten" zodat het voor de 'smartbuilding' dataset gebruikt kan worden. In verband met deadlines en tijdsnood van andere taken binnen de projectgroep is iemand anders hier mee verder gegaan.
+
+[Weather prediction model](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/Laatste%20versie%20weather%20prediction.ipynb) Code gescreven geinspireerd op code van een 'supervised learning' weersvoorspellings model. Dit was het eerste werkende model waarmee de projectgroep daadwerkelijk sensorwaardes kon voorspellen.
+
+[Logistic regression model](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/logistic_sgd.py) Begonnen aan het maken van een 'logistic regression' om anomalien te detecteren (anomalie of geen anomalie). Projectleden hebben aangeraden om hier niet mee door te gaan, omdat andere modellen waarschijnlijk beter zouden werken en meer tijd nodig hadden om te maken.
+
+[Scatterplot/clusterings code](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/scatter%20plot%20anomalies.py) Code waarme een 'scatterplot'wordt gemaakt van geselecteerde data en waar een clustering op wordt toegepast. Stappen die iemand anders zou oppakken zijn: afwijkende waardes in nieuwe lijst zetten en/of eigen csv van maken, meerdere dimensies toevoegen.
+
 
 
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
