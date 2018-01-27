@@ -32,7 +32,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 
 ## Datacamp <a name="Datacamp"></a>
 ### Datacamp: Intro to Python for Data Science
-* [1 Python basics (variables, expressions)]
+* [1 Python basics (variables, expressions)] (https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intro%20to%20Python%20for%20Data%20Science%20Course.pdf)
 * [2 Pythin Lists]
 * [3 Functions and Packages]
 * [4 Numpy (2D number arrays)]
@@ -42,6 +42,24 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [3 Logic, Control flow & Filtering](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
 * [4 Loops](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
 * [5 Excercise](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+### Datacamp: Introduction to visualization with Python
+* [1 Customizing plots](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Customizing%20plots.PNG)
+* [2 plotting 2D arrays](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Plotting%202D%20arrays.PNG)
+* [3 Statistical plot with Seaborn](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Statistical%20plots%20with%20Seaborn.PNG)
+### Datacamp: Importing data in Python path 1 
+* [1 Introduction and flat files](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Introduction%20and%20flat%20files.PNG)
+### Datacamp: Python Data Science Toolbox (Part 1)
+* [1 Writing your own fnctions](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Writing%20your%20own%20functions.PNG)
+### Datacamp: Pandas foundation
+* [1 Data ingestion and inspection](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Data%20ingestion%20%26%20inspection.PNG)
+* [2 Exploratory data analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Exploratory%20data%20analysis.PNG)
+### Datacamp: Cleaning Data
+* [1 Exploring Data](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
+* [2 Tidying data for analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
+* [3 Combining data for analys](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
+* [4 Cleaning data for analysis](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
+* [5 Case Study](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Cleaning%20Data%20in%20Python%20Course.pdf)
+
 
 
 ## Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
