@@ -21,6 +21,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [Calling Bullshit](#Calling_Bullshit)  
 * [Presentaties](#Presentaties)
 * [Projectplanning & uitgevoerde taken](#Projectplanning+uitgevoerde_taken)
+- - - -
  
 ## Coursera <a name="Coursera"></a>
 * [Introduction](https://github.com/BTuyn/portfolio/blob/master/Coursera/Introduction.PNG)  
@@ -29,6 +30,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [Week 3 Logistic Regression](https://github.com/BTuyn/portfolio/blob/master/Coursera/Week%203%20Logistc%20Regression.PNG)
 * [Week 6 Advice for Applying Machine Learning](https://github.com/BTuyn/portfolio/blob/master/Coursera/Week%206%20Advice%20for%20Applying%20Machine%20Learning.PNG)
 * [Week 6 Machine Learning System Design](https://github.com/BTuyn/portfolio/blob/master/Coursera/Week%206%20Machine%20Learning%20System%20Design.PNG)
+- - - -
 
 ## Datacamp <a name="Datacamp"></a>
 ### Datacamp: Intro to Python for Data Science
@@ -69,7 +71,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [2 Regression](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
 * [3 Fine-tuning your model](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
 * [4 Preprocessing and pipelines](https://github.com/BTuyn/portfolio/blob/master/Datacamp/Supervised%20Learning%20with%20scikit-learn%20Course.pdf)
-
+- - - -
 
 ## Exploratory Data Analysis <a name="Exploratory_Data_Analysis"></a>
 1.[Checking Data Edges](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/1%2BChecking%2BData%2BEdges.md)
@@ -89,12 +91,12 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 8.[Creating Variables](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/8%2BCreating%2BVariables.md)
 
 9.[Evaluate](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/9%2BEvaluate.md)
-
+- - - -
 ## Spark <a name="Spark"></a>
 [Assignment 1](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment1.md)
 
 [Assignment 2](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment2.md)
-
+- - - -
 ## Python projecten  <a name="Python_projecten"></a>
 [Denoising autoencoder:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/Denoising%20autoencoder.py) De uitkomst van een tutorial om een autoencoder te maken, er zijn stappen gemaakt om de code te "converten" zodat het voor de 'smartbuilding' dataset gebruikt kan worden. In verband met deadlines en tijdsnood van andere taken binnen de projectgroep is iemand anders hier mee verder gegaan.
 
@@ -107,17 +109,17 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 [Test.py:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/test.py) Allereerste zelfgeschreven pythoncode en 'machine learning' model. Door deze code ben ik als "leek" de kracht van Python gaan begrijpen, omdat met 10 regels code een Decision Tree Classifier is gemaakt die op basis van hoogte, gewicht en schoentmaat mensen classifieert op geslacht.
 
 [Wijn Classificatie:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/whine%20quality%20classifier.py) Tutorial gevolgd om classificatie geschreven in Python code beter te begrijpen. Vervolgens zijn er stappen gezet om de 'tutorial' om te zetten naar code die voor de 'smartbuilding' dataset gebruikt kunnen worden.
-
+- - - -
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
 [Bob's Bullshit](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/Bullshit%20Bob%20Tuynman%2009003029.docx)
 
 [Bedoordeling](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/beoordeling%20calling%20bullshit%201718.xlsx)
-
+- - - -
 ## Presentaties  <a name="Presentaties"></a>
 Presentaties die door mij gemaakt zijn, zijn [hier](https://github.com/BTuyn/portfolio/tree/master/presentaties/gemaakt%20door%20mij) te vinden.
 
 Presentaties die door mij zijn gepresenteerd, zijn [hier](https://github.com/BTuyn/portfolio/tree/master/presentaties/gepresenteerd%20door%20mij) te vinden.
-
+- - - -
 ## Projectplanning & uitgevoerde taken <a name="Projectplanning+uitgevoerde_taken"></a>
 [Planning & taken schema:](https://github.com/BTuyn/portfolio/blob/master/Projectplanning%2Buitgevoerde%20taken/20%20weken%20schema%20(3).xlsx)
 
