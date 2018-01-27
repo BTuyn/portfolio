@@ -78,7 +78,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 
 3.[Univariate Analysis](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/3%20Univariate%20Analysis.md)
 
-4.[Bivariate Analysis(https://github.com/BTuyn/portfolio/tree/master/ExploratoryDataAnalysis/4%2BBivariate%2BAnalysis)
+4.[Bivariate Analysis](https://github.com/BTuyn/portfolio/tree/master/ExploratoryDataAnalysis/4%2BBivariate%2BAnalysis)
 
 5.[Missing Values](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/5%2BMissing%2BValues.md)
 
@@ -91,9 +91,18 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 9.[Evaluate](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/9%2BEvaluate.md)
 
 ## Spark <a name="Spark"></a>
+[Assignment 1](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment1.md)
+[Assignment 2](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment2.md)
+
 ## Python projecten  <a name="Python_projecten"></a>
+
+
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
+
+
 ## Presentaties  <a name="Presentaties"></a>
+
+
 ## Projectplanning+uitgevoerde taken <a name="Projectplanning+uitgevoerde_taken"></a>
 
 Hyperlink: []()
