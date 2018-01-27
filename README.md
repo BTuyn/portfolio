@@ -20,7 +20,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 * [Python projecten](#Python_projecten) 
 * [Calling Bullshit](#Calling_Bullshit)  
 * [Presentaties](#Presentaties)
-* [Projectplanning+uitgevoerde taken](#Projectplanning+uitgevoerde_taken)
+* [Projectplanning & uitgevoerde taken](#Projectplanning+uitgevoerde_taken)
  
 ## Coursera <a name="Coursera"></a>
 * [Introduction](https://github.com/BTuyn/portfolio/blob/master/Coursera/Introduction.PNG)  
@@ -110,6 +110,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
 [Bob's Bullshit](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/Bullshit%20Bob%20Tuynman%2009003029.docx)
+
 [Bedoordeling](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/beoordeling%20calling%20bullshit%201718.xlsx)
 
 ## Presentaties  <a name="Presentaties"></a>
@@ -117,6 +118,5 @@ Presentaties die door mij gemaakt zijn, zijn [hier](https://github.com/BTuyn/por
 
 Presentaties die door mij zijn gepresenteerd, zijn [hier](https://github.com/BTuyn/portfolio/tree/master/presentaties/gepresenteerd%20door%20mij) te vinden.
 
-## Projectplanning+uitgevoerde taken <a name="Projectplanning+uitgevoerde_taken"></a>
+## Projectplanning & uitgevoerde taken <a name="Projectplanning+uitgevoerde_taken"></a>
 
-Hyperlink: []()
