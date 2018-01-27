@@ -98,21 +98,24 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 ## Python projecten  <a name="Python_projecten"></a>
 [Denoising autoencoder:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/Denoising%20autoencoder.py) De uitkomst van een tutorial om een autoencoder te maken, er zijn stappen gemaakt om de code te "converten" zodat het voor de 'smartbuilding' dataset gebruikt kan worden. In verband met deadlines en tijdsnood van andere taken binnen de projectgroep is iemand anders hier mee verder gegaan.
 
-[Weather prediction model](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/Laatste%20versie%20weather%20prediction.ipynb) Code gescreven geinspireerd op code van een 'supervised learning' weersvoorspellings model. Dit was het eerste werkende model waarmee de projectgroep daadwerkelijk sensorwaardes kon voorspellen.
+[Weather prediction model:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/Laatste%20versie%20weather%20prediction.ipynb) Code gescreven geinspireerd op code van een 'supervised learning' weersvoorspellings model. Dit was het eerste werkende model waarmee de projectgroep daadwerkelijk sensorwaardes kon voorspellen.
 
-[Logistic regression model](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/logistic_sgd.py) Begonnen aan het maken van een 'logistic regression' om anomalien te detecteren (anomalie of geen anomalie). Projectleden hebben aangeraden om hier niet mee door te gaan, omdat andere modellen waarschijnlijk beter zouden werken en meer tijd nodig hadden om te maken.
+[Logistic regression model:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/logistic_sgd.py) Begonnen aan het maken van een 'logistic regression' om anomalien te detecteren (anomalie of geen anomalie). Projectleden hebben aangeraden om hier niet mee door te gaan, omdat andere modellen waarschijnlijk beter zouden werken en meer tijd nodig hadden om te maken.
 
-[Scatterplot/clusterings code](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/scatter%20plot%20anomalies.py) Code waarme een 'scatterplot'wordt gemaakt van geselecteerde data en waar een clustering op wordt toegepast. Stappen die iemand anders zou oppakken zijn: afwijkende waardes in nieuwe lijst zetten en/of eigen csv van maken, meerdere dimensies toevoegen.
+[Scatterplot/clusterings code:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/scatter%20plot%20anomalies.py) Code waarme een 'scatterplot'wordt gemaakt van geselecteerde data en waar een clustering op wordt toegepast. Stappen die iemand anders zou oppakken zijn: afwijkende waardes in nieuwe lijst zetten en/of eigen csv van maken, meerdere dimensies toevoegen.
 
-[Test.py](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/test.py) Allereerste zelfgeschreven pythoncode en 'machine learning' model. Door deze code ben ik als "leek" de kracht van Python gaan begrijpen, omdat met 10 regels code een Decision Tree Classifier is gemaakt die op basis van hoogte, gewicht en schoentmaat mensen classifieert op geslacht.
+[Test.py:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/test.py) Allereerste zelfgeschreven pythoncode en 'machine learning' model. Door deze code ben ik als "leek" de kracht van Python gaan begrijpen, omdat met 10 regels code een Decision Tree Classifier is gemaakt die op basis van hoogte, gewicht en schoentmaat mensen classifieert op geslacht.
 
-[Wijn Classificatie](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/whine%20quality%20classifier.py) Tutorial gevolgd om classificatie geschreven in Python code beter te begrijpen. Vervolgens zijn er stappen gezet om de 'tutorial' om te zetten naar code die voor de 'smartbuilding' dataset gebruikt kunnen worden.
+[Wijn Classificatie:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/whine%20quality%20classifier.py) Tutorial gevolgd om classificatie geschreven in Python code beter te begrijpen. Vervolgens zijn er stappen gezet om de 'tutorial' om te zetten naar code die voor de 'smartbuilding' dataset gebruikt kunnen worden.
 
 ## Calling Bullshit  <a name="Calling_Bullshit"></a>
-
+[Bob's Bullshit](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/Bullshit%20Bob%20Tuynman%2009003029.docx)
+[Bedoordeling](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/beoordeling%20calling%20bullshit%201718.xlsx)
 
 ## Presentaties  <a name="Presentaties"></a>
+Presentaties die door mij gemaakt zijn, zijn [hier](https://github.com/BTuyn/portfolio/tree/master/presentaties/gemaakt%20door%20mij) te vinden.
 
+Presentaties die door mij zijn gepresenteerd, zijn [hier](https://github.com/BTuyn/portfolio/tree/master/presentaties/gepresenteerd%20door%20mij) te vinden.
 
 ## Projectplanning+uitgevoerde taken <a name="Projectplanning+uitgevoerde_taken"></a>
 
