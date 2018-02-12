@@ -132,4 +132,4 @@ Los van de uitgevoerde taken heb ik mij binnen de projectgroep verantwoordelijk 
 
 Ook heb ik het gevoel alsof ik binnen de projectgroep een 'Public Relations' rol heb ontvangen. Voorbeelden hiervan zijn een videointerview voor een competitie waaraan het Lectoraar 'Energie een de Gebouwde Omgeving' aan meedeed en de gegeven presentatie tijdens het symposium voor hetzelfde lectoraat. De toegevoegde waarde van deze activiteiten is discutabel, echter heb ik er wel leuke vvv-bonnen aan overgehouden.:sweat_smile:
 
-![trello to do](portfolio/Projectplanning+uitgevoerde taken/trello to do.png)
+![trello to do](portfolio/Projectplanning+uitgevoerde taken/trello to do.PNG)
