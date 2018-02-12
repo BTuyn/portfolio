@@ -126,8 +126,10 @@ Presentaties die door mij zijn gepresenteerd, zijn [hier](https://github.com/BTu
 [Planning & taken schema:](https://github.com/BTuyn/portfolio/blob/master/Projectplanning%2Buitgevoerde%20taken/20%20weken%20schema%20(3).xlsx)
 
 
-Hierin is het schema te vinden wat over de 20 weken gepland stond om te doen tijdens de minor en staat bij de rij gelabeld 'To Do' welke taken per dag zijn uitgevoerd. Wanneer de cel waarin een taak zich bevind groen is, is de taak succesvol afgerond. Wanneer een cel oranje is, is de taak nog steeds in uitvoering. Wanneer een cel rood is, is de taak afgerond zonder concrete resultaten.
+De eerste 7 weken is Trello gebruikt om de taken en de planning bij te houden. Dit werkte zo slecht dat ik er daarom voor gekozen heb onze planning uit te werken in een google spreadsheet. Dit werkte een stuk beter en is succesvol opgenomen door de andere projectleden. Hierin is het schema te vinden wat over de 20 weken gepland stond om te doen tijdens de minor en staat bij de rij gelabeld 'To Do' welke taken per dag zijn uitgevoerd. Wanneer de cel waarin een taak zich bevind groen is, is de taak succesvol afgerond. Wanneer een cel oranje is, is de taak nog steeds in uitvoering. Wanneer een cel rood is, is de taak afgerond zonder concrete resultaten. Foto's van Trello en de spreadsheet zijn onderaan de leeswijzer te vinden.
 
 Los van de uitgevoerde taken heb ik mij binnen de projectgroep verantwoordelijk gevoeld om structuur aan te brengen en wanneer men geen duidelijk taak had hun te helpen met het vinden van een nieuwe taak. Met name in de eerste maand was dit evident. Later wanneer enige structuur binnen de groep was aangebracht, was het duidelijk dat de groep voldoende zelfsturend was om deze verantwoordelijkheid gedeeltelijk los te laten. 
 
 Ook heb ik het gevoel alsof ik binnen de projectgroep een 'Public Relations' rol heb ontvangen. Voorbeelden hiervan zijn een videointerview voor een competitie waaraan het Lectoraar 'Energie een de Gebouwde Omgeving' aan meedeed en de gegeven presentatie tijdens het symposium voor hetzelfde lectoraat. De toegevoegde waarde van deze activiteiten is discutabel, echter heb ik er wel leuke vvv-bonnen aan overgehouden.:sweat_smile:
+
+![trello to do](portfolio/Projectplanning+uitgevoerde taken/trello to do.png)
