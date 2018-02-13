@@ -1,0 +1,217 @@
+{UTF-8}
+Amount of students in room= INTEG (
+	Student Inflow-Student Outflow,
+		Initial Amount of students in room)
+	~	
+	~		|
+
+Total Amount of student in room=
+	Amount of students in room+Amount of students in room+Amount of students in room
+	~	
+	~		|
+
+Student Outflow= DELAY FIXED (
+	Student Inflow,Class duration of 1 hour,Initial Amount of students in room/TIME STEP\
+		)
+	~	
+	~		|
+
+Average Percentage of students actually in class=
+	0.85
+	~	
+	~		|
+
+Class duration of 1 hour=
+	1
+	~	
+	~		|
+
+"Initiation of class at 19:00"=
+	7
+	~	
+	~		|
+
+Initial Amount of students in room=
+	0
+	~	
+	~		|
+
+Student Inflow=
+	(PULSE("Initation of class at 14:00",TIME STEP)*("Max. amount of student in classroom"\
+		*Average Percentage of students actually in class
+	)/TIME STEP)+(PULSE("Initiation of class at 17:00",TIME STEP)*("Max. amount of student in classroom"\
+		*Average Percentage of students actually in class)/TIME STEP)+(PULSE("Initiation of class at 19:00"\
+		,TIME STEP)*("Max. amount of student in classroom"*Average Percentage of students actually in class\
+		)/TIME STEP)
+	~	
+	~	(PULSE("Initation of class at 14:00",TIME STEP)*("Max. amount of student in \
+		classroom"*Average Percentage of students actually in class
+		)/TIME STEP)+(PULSE("Initiation of class at 17:00",TIME STEP)*("Max. \
+		amount of student in classroom"*Average Percentage of students actually in \
+		class)/TIME STEP)+(PULSE("Initiation of class at 19:00",TIME STEP)*("Max. \
+		amount of student in classroom"*Average Percentage of students actually in \
+		class)/TIME STEP)
+	|
+
+CO2 uitstoot per uur=
+	Total Amount of student in room*CO2 uitstoot per student
+	~	ppm
+	~		|
+
+"Initation of class at 14:00"=
+	2
+	~	
+	~		|
+
+"Initiation of class at 17:00"=
+	5
+	~	
+	~		|
+
+CO2 afvoer per uur=
+	IF THEN ELSE( CO2 gehalte<=400 , 0 , 400 )
+	~	ppm
+	~		|
+
+CO2 gehalte= INTEG (
+	CO2 uitstoot per uur-CO2 afvoer per uur,
+		400)
+	~	ppm [400,?]
+	~		|
+
+"Max. amount of student in classroom"=
+	30
+	~	studenten [0,30,1]
+	~		|
+
+CO2 uitstoot per student=
+	40
+	~	ppm/studenten [0,100,0.1]
+	~		|
+
+********************************************************
+	.Control
+********************************************************~
+		Simulation Control Parameters
+	|
+
+FINAL TIME  = 8
+	~	Hour
+	~	The final time for the simulation.
+	|
+
+INITIAL TIME  = 0
+	~	Hour
+	~	The initial time for the simulation.
+	|
+
+SAVEPER  = 
+        TIME STEP
+	~	Hour [0,?]
+	~	The frequency with which output is stored.
+	|
+
+TIME STEP  = 0.00390625
+	~	Hour [0,?]
+	~	The time step for the simulation.
+	|
+
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*CO2
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+10,1,CO2 gehalte,966,539,40,20,3,3,0,0,0,0,0,0
+12,2,48,667,539,10,8,0,3,0,0,-1,0,0,0
+1,3,5,1,4,0,0,22,0,0,0,-1--1--1,,1|(866,539)|
+1,4,5,2,100,0,0,22,0,0,0,-1--1--1,,1|(736,539)|
+11,5,48,801,539,6,8,34,3,0,0,1,0,0,0
+10,6,CO2 uitstoot per uur,801,566,55,19,40,131,0,0,-1,0,0,0
+12,7,48,1210,542,10,8,0,3,0,0,-1,0,0,0
+1,8,10,7,4,0,0,22,0,0,0,-1--1--1,,1|(1154,542)|
+1,9,10,1,100,0,0,22,0,0,0,-1--1--1,,1|(1051,542)|
+11,10,48,1103,542,6,8,34,3,0,0,1,0,0,0
+10,11,CO2 afvoer per uur,1103,569,52,19,40,3,0,0,-1,0,0,0
+10,12,CO2 uitstoot per student,528,579,55,19,8,3,0,0,0,0,0,0
+1,13,12,5,1,0,43,0,2,64,0,-1--1--1,|12||0-0-0,1|(635,468)|
+10,14,"Max. amount of student in classroom",721,181,65,19,8,3,0,0,0,0,0,0
+12,15,1836524,235,478,150,143,3,188,0,0,2,0,0,0
+CO2 gehalte,Graph
+12,16,132884,1586,412,220,113,3,188,0,0,2,0,0,0
+Student Outflow,Graph
+12,17,132882,1587,176,220,123,3,188,0,0,2,0,0,0
+Average Percentage of students actually in class,Graph
+12,18,132880,1586,640,220,114,3,188,0,0,2,0,0,0
+Student Inflow,Graph
+12,19,132878,238,186,152,147,3,188,0,0,2,0,0,0
+CO2 uitstoot per uur,Graph
+12,20,132876,234,727,150,103,3,188,0,0,2,0,0,0
+CO2 afvoer per uur,Graph
+1,21,1,11,1,0,0,0,0,64,0,-1--1--1,,1|(1007,604)|
+10,22,TIME STEP,710,387,50,11,8,2,1,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128
+10,23,Amount of students in room,855,315,68,34,3,131,0,0,0,0,0,0
+12,24,48,625,320,10,8,0,3,0,0,-1,0,0,0
+1,25,27,23,4,0,0,22,0,0,0,-1--1--1,,1|(752,322)|
+1,26,27,24,100,0,0,22,0,0,0,-1--1--1,,1|(670,322)|
+11,27,48,711,322,6,8,34,3,0,0,1,0,0,0
+10,28,Student Inflow,711,341,46,11,40,3,0,0,-1,0,0,0
+12,29,48,1114,312,10,8,0,3,0,0,-1,0,0,0
+1,30,32,29,4,0,0,22,0,0,0,-1--1--1,,1|(1061,312)|
+1,31,32,23,100,0,0,22,0,0,0,-1--1--1,,1|(965,312)|
+11,32,48,1013,312,6,8,34,3,0,0,1,0,0,0
+10,33,Student Outflow,1013,331,52,11,40,3,0,0,-1,0,0,0
+10,34,Initial Amount of students in room,846,239,58,19,8,3,0,16,0,0,0,0,-1--1--1,0-0-0,|12|I|0-0-0
+1,35,34,23,0,0,0,0,0,128,1,-1--1--1,,1|(848,262)|
+1,36,22,28,1,1,0,0,0,128,0,-1--1--1,,1|(710,362)|
+10,37,TIME STEP,1005,392,50,11,8,2,1,3,-1,0,0,0,128-128-128,0-0-0,|12||128-128-128
+1,38,37,33,0,1,0,0,0,128,1,-1--1--1,,1|(1007,368)|
+10,39,Average Percentage of students actually in class,558,218,77,19,8,3,0,0,0,0,0,0
+10,40,"Initation of class at 14:00",463,283,59,19,8,3,0,0,0,0,0,0
+10,41,"Initiation of class at 17:00",461,336,53,19,8,3,0,0,0,0,0,0
+10,42,"Initiation of class at 19:00",480,393,53,19,8,3,0,0,0,0,0,0
+1,43,14,28,1,0,0,0,0,128,0,-1--1--1,,1|(742,266)|
+1,44,39,28,1,0,0,0,0,128,0,-1--1--1,,1|(633,279)|
+1,45,40,28,1,0,0,0,0,128,0,-1--1--1,,1|(596,330)|
+1,46,28,33,1,0,0,0,2,129,0,-1--1--1,|12||0-0-0,1|(857,401)|
+10,47,Class duration of 1 hour,1092,389,54,19,8,3,0,0,0,0,0,0
+1,48,47,33,1,0,0,0,0,128,0,-1--1--1,,1|(1032,366)|
+1,49,34,33,1,0,0,0,0,64,1,-1--1--1,,1|(933,268)|
+1,50,41,28,1,0,0,0,0,128,0,-1--1--1,,1|(629,361)|
+1,51,42,28,1,0,0,0,0,128,0,-1--1--1,,1|(610,391)|
+10,52,Total Amount of student in room,827,455,53,19,8,3,0,0,0,0,0,0
+1,53,23,52,0,0,0,0,0,128,0,-1--1--1,,1|(840,385)|
+1,54,52,6,1,0,0,0,0,128,0,-1--1--1,,1|(835,509)|
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*Luchtstroom
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*Temperatuur
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+\\\---/// Sketch information - do not modify anything except names
+V300  Do not put anything below this section - it will be ignored
+*View 4
+$192-192-192,0,Times New Roman|12||0-0-0|0-0-0|0-0-255|-1--1--1|-1--1--1|96,96,100,0
+///---\\\
+:L<%^E!@
+1:Current.vdf
+1:D:\Users\Bob\Downloads\Current.vdf
+9:Current
+23:0
+15:0,0,0,0,0,0
+19:100,0
+27:0,
+34:0,
+4:Time
+5:Amount of students in room
+35:Date
+36:YYYY-MM-DD
+37:2000
+38:1
+39:1
+40:5
+41:0
+42:0
+24:0
+25:8
+26:8
