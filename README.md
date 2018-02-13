@@ -125,12 +125,14 @@ Presentaties die door mij zijn gepresenteerd, zijn [hier](https://github.com/BTu
 ## Projectplanning & uitgevoerde taken <a name="Projectplanning+uitgevoerde_taken"></a>
 [Planning & taken schema:](https://github.com/BTuyn/portfolio/blob/master/Projectplanning%2Buitgevoerde%20taken/20%20weken%20schema%20(3).xlsx)
 
-
 De eerste 7 weken is Trello gebruikt om de taken en de planning bij te houden. Dit werkte zo slecht dat ik er daarom voor gekozen heb onze planning uit te werken in een google spreadsheet. Dit werkte een stuk beter en is succesvol opgenomen door de andere projectleden. Hierin is het schema te vinden wat over de 20 weken gepland stond om te doen tijdens de minor en staat bij de rij gelabeld 'To Do' welke taken per dag zijn uitgevoerd. Wanneer de cel waarin een taak zich bevind groen is, is de taak succesvol afgerond. Wanneer een cel oranje is, is de taak nog steeds in uitvoering. Wanneer een cel rood is, is de taak afgerond zonder concrete resultaten. De allerlaatste week heeft Rowan Voermans een to do lijst gemaakt voor het maken van het onderzoeksverslag dit is de laatste week gebruik voor de planning. Foto's van Trello, de spreadsheet en de to-do lijst van de laatse weken zijn onderaan de leeswijzer te vinden.
-
+  
 Los van de uitgevoerde taken heb ik mij binnen de projectgroep verantwoordelijk gevoeld om structuur aan te brengen en wanneer men geen duidelijk taak had hun te helpen met het vinden van een nieuwe taak. Met name in de eerste maand was dit evident. Later wanneer enige structuur binnen de groep was aangebracht, was het duidelijk dat de groep voldoende zelfsturend was om deze verantwoordelijkheid gedeeltelijk los te laten. 
 
 Ook heb ik het gevoel alsof ik binnen de projectgroep een 'Public Relations' rol heb ontvangen. Voorbeelden hiervan zijn een videointerview voor een competitie waaraan het Lectoraar 'Energie een de Gebouwde Omgeving' aan meedeed en de gegeven presentatie tijdens het symposium voor hetzelfde lectoraat. De toegevoegde waarde van deze activiteiten is discutabel, echter heb ik er wel leuke vvv-bonnen aan overgehouden.:sweat_smile:
+  
+  De eerste weken heb ik mij bezig gehouden met het opdoen van kennis en informatie. Ik heb interviews gehouden met stakeholders van het lectoraat waar de opdracht voor wordt uitgevoerd en verschillende datavisualisatie tools uitgeprobeerd waaronder Kibana en PowerBI. Mijn groepsgenoten heb ik gevraagd hetzelfde te doen. Ook heb ik een systeemkundig model gecreeerd dat weergeeft wat het effect is van de CO2 uitstoot van mensen in het gebouw. Dit systeemkundig model kunt u [hier](https://github.com/BTuyn/portfolio/blob/master/Vensim/Schoolgebouw%20HHS.mdl) vinden. Hieronder is een weergave van hoe het systeemkundig model eruit ziet. ![Vensim model](https://github.com/BTuyn/portfolio/blob/master/Vensim/Vensim%20model.PNG)
+  </br>
 
   ![trello to do](https://github.com/BTuyn/portfolio/blob/master/Projectplanning+uitgevoerde%20taken/trello%20to%20do.PNG?raw=true)
   </br>
