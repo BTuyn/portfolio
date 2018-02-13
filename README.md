@@ -95,9 +95,9 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 9.[Evaluate](https://github.com/BTuyn/portfolio/blob/master/ExploratoryDataAnalysis/9%2BEvaluate.md)
 - - - -
 ## Spark <a name="Spark"></a>
-[Assignment 1](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment1.md)
+[Assignment 1](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment1%20(1).md)
 
-[Assignment 2](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment2.md)
+[Assignment 2](https://github.com/BTuyn/portfolio/blob/master/Spark/assignment2%20(1).md)
 - - - -
 ## Python projecten  <a name="Python_projecten"></a>
 [Denoising autoencoder:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/Denoising%20autoencoder.py) De uitkomst van een tutorial om een autoencoder te maken, er zijn stappen gemaakt om de code te "converten" zodat het voor de 'smartbuilding' dataset gebruikt kan worden. In verband met deadlines en tijdsnood van andere taken binnen de projectgroep is iemand anders hier mee verder gegaan.
