@@ -153,6 +153,6 @@ Ook heb ik het gevoel alsof ik binnen de projectgroep een 'Public Relations' rol
   ![schema6](https://github.com/BTuyn/portfolio/blob/master/Projectplanning%2Buitgevoerde%20taken/schema%206.PNG)</br>
   </br>
   - - - -
-  ![todo](https://github.com/BTuyn/portfolio/blob/master/Projectplanning%2Buitgevoerde%20taken/to%20do.PNG),</br>
+  ![todo](https://github.com/BTuyn/portfolio/blob/master/Projectplanning+uitgevoerde%20taken/to%20do.PNG?raw=true),</br>
   </br>
   - - - -
