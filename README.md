@@ -107,11 +107,7 @@ In dit portfolio zijn eindproducten van mijn leerproces te vinden die ik tijdens
 [Test.py:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/test.py) Allereerste zelfgeschreven pythoncode en 'machine learning' model. Door deze code ben ik als "leek" de kracht van Python gaan begrijpen, omdat met 10 regels code een Decision Tree Classifier is gemaakt die op basis van hoogte, gewicht en schoentmaat mensen classifieert op geslacht.
 
 [Wijn Classificatie:](https://github.com/BTuyn/portfolio/blob/master/Geschreven%20Python%20code/whine%20quality%20classifier.py) Tutorial gevolgd om classificatie geschreven in Python code beter te begrijpen. Vervolgens zijn er stappen gezet om de 'tutorial' om te zetten naar code die voor de 'smartbuilding' dataset gebruikt kunnen worden.
-- - - -
-## Calling Bullshit  <a name="Calling_Bullshit"></a>
-[Bob's Bullshit](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/Bullshit%20Bob%20Tuynman%2009003029.docx)
 
-[Bedoordeling](https://github.com/BTuyn/portfolio/blob/master/Opdrachten%20van%20de%20workshops/beoordeling%20calling%20bullshit%201718.xlsx)
 - - - -
 ## Presentaties  <a name="Presentaties"></a>
 Presentaties die door mij gemaakt zijn, zijn [hier](https://github.com/BTuyn/portfolio/tree/master/presentaties/gemaakt%20door%20mij) te vinden.
